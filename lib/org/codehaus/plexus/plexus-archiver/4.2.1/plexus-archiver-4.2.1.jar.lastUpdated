@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 06 16:16:31 CST 2020
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.codehaus.plexus\:plexus-archiver\:jar\:4.2.1 from/to spring-milestones (https\://repo.spring.io/milestone)\: Transfer failed for https\://repo.spring.io/milestone/org/codehaus/plexus/plexus-archiver/4.2.1/plexus-archiver-4.2.1.jar
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1599380188831
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1599380191502
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1599380183525

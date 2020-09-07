@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 06 16:17:27 CST 2020
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1599380247634
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:pom\:1.5.6 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+https\://repo.spring.io/milestone/.lastUpdated=1599380224106
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1599380247963

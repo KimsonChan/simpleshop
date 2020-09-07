@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-releasetrain</artifactId>
+  <version>Neumann-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200906.181604</timestamp>
+      <buildNumber>523</buildNumber>
+    </snapshot>
+    <lastUpdated>20200906181606</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Neumann-BUILD-20200906.181604-523</value>
+        <updated>20200906181604</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

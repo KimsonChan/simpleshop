@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.projectreactor</groupId>
+  <artifactId>reactor-bom</artifactId>
+  <version>Dysprosium-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200810.111507</timestamp>
+      <buildNumber>70</buildNumber>
+    </snapshot>
+    <lastUpdated>20200810111513</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Dysprosium-BUILD-20200810.111507-70</value>
+        <updated>20200810111507</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

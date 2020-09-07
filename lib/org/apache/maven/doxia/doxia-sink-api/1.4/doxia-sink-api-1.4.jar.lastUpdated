@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 06 16:25:56 CST 2020
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1599380751900
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-sink-api\:jar\:1.4 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/org/apache/maven/doxia/doxia-sink-api/1.4/doxia-sink-api-1.4.jar
+https\://repo.spring.io/milestone/.lastUpdated=1599380734420
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1599380756485

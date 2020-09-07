@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 06 16:25:56 CST 2020
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1599380751922
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-integration-tools\:jar\:1.5 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/org/apache/maven/doxia/doxia-integration-tools/1.5/doxia-integration-tools-1.5.jar
+https\://repo.spring.io/milestone/.lastUpdated=1599380734442
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1599380756528

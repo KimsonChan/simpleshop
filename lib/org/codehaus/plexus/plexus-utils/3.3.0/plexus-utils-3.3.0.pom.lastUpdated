@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Sep 06 16:15:51 CST 2020
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1599380151582
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:pom\:3.3.0 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: Transfer failed for https\://repo.spring.io/snapshot/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.pom
+https\://repo.spring.io/milestone/.lastUpdated=1599380127876
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1599380151906
